@@ -273,6 +273,10 @@ p
     .navbar {
         padding: 0;
     }
+    .header-content h1 
+    {
+        font-size:4rem;
+    }
 
     .logo {
         position: absolute;
