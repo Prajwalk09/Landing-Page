@@ -5,6 +5,7 @@
 }
 
 html {
+    scroll-behavior: smooth;
     font-size: 62.5%;
 }
 
@@ -55,7 +56,7 @@ a {
 .header-content h1 {
     text-transform: uppercase;
     margin: 5rem 0 3rem 0;
-    font-size: 4rem;
+    font-size: 4.2rem;
 }
 
 .ctn {
@@ -272,10 +273,6 @@ p
 @media(max-width:850px) {
     .navbar {
         padding: 0;
-    }
-    .header-content h1 
-    {
-        font-size:4rem;
     }
 
     .logo {
